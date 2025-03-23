@@ -1,0 +1,21 @@
+"Chorus",  A sound effect that creates the illusion of multiple instruments or voices playing or singing together_ adding depth and richness to the sound.; 
+"Tremolo", A rapid variation in volume or pitch of a note or sound_ producing a trembling or shivering effect.; 
+"Distortion", A sound effect that alters the waveform of the audio signal_ adding harmonics and creating a gritty_ edgy_ or aggressive tone.; 
+"Fuzzy", A soft and fuzzy sound effect characterized by warm and rounded tones.; 
+"Granular", A sound effect created by breaking down audio into tiny grains and manipulating them individually_ resulting in unique and textured soundscapes.; 
+"Loop", A repeating segment of audio that creates a continuous and repetitive pattern.; 
+"Bit reduction", A sound effect that reduces the resolution of the audio signal_ producing a lo-fi_ "8-bit" retro sound.; 
+"Reverb", A sound effect that simulates the natural echo and reverberation of a physical space_ adding depth and spaciousness to the sound.; 
+"Filtered", A sound effect achieved by applying a filter to the audio signal_ emphasizing or attenuating specific frequencies.; 
+"Resonators", A sound effect that emphasizes and manipulates specific harmonics or frequencies_ creating resonant and metallic tones.; 
+"Flanger", A sound effect that produces a swirling or sweeping sound by combining a delayed version of the audio signal with the original.; 
+"Pitch-shift", A sound effect that alters the pitch (frequency) of the audio signal_ either up or down.; 
+"Stretched", A sound effect achieved by elongating or time-stretching the audio signal_ changing its duration without affecting its pitch.; 
+"Delay",  A sound effect that produces echoes or repetitions of the audio signal_ creating a sense of space and distance.; 
+"Echo", A sound effect produced by the reflection of sound waves off surfaces.; 
+"Vibrato",  A sound effect achieved by varying the pitch of a note or sound_ creating a pulsating or wavering effect.; 
+"Filter",  A sound effect that modifies the frequency content of the audio signal_ shaping the tone and character of the sound.; 
+"Modulation", A sound effect that applies varying changes to the audio signal_ such as tremolo_ vibrato_ chorus_ or flanger.;
+Feedback, A sound produced when sound from an output source is captured and re-amplified by an input source_ creating a sustained and often distorted effect;
+Layering, Process of summing up different sounds to create a complex sound structure;
+

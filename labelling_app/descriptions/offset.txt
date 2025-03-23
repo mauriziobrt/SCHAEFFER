@@ -1,0 +1,7 @@
+"Sharp ending", Sounds with an accentuated ending phase; 
+"Sudden stop", Sounds stopped suddenly_ rather than rounded off; 
+"Flat ending", No particular characteristic regarding the ending; 
+"Soft ending", The ending of the sustained sound is rounded off with a diminuendo; 
+"Laissez vibrer",A resonating sound is let free to resonate until it dies out; 
+"Interrupted resonance", A resonating sound is suddenly stopped; 
+"Fade out", A fade out effect is applied to the ending of the sound object;

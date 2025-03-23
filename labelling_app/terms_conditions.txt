@@ -1,0 +1,120 @@
+===================================================================================
+ITA
+===================================================================================
+
+Termini e Condizioni per l'Utilizzo dell'App e Caricamento dei Dati nel Dataset:
+
+===================================================================================
+
+- 1 Accettazione dei Termini: Utilizzando l'applicazione e caricando i dati 
+nel dataset, accetti incondizionatamente e integralmente i seguenti termini 
+e condizioni.
+
+- 2 Contribuzione dei Dati: L'utente è invitato a contribuire al dataset 
+fornendo sound objects di lunghezza compresa tra 5 e 10 secondi, come 
+specificato nei termini del progetto.
+
+- 3 Proprietà dei Dati: L'utente dichiara di essere il legittimo detentore dei 
+diritti su tutti i dati caricati e fornisce una licenza non esclusiva, perpetua, 
+irrevocabile e mondiale per l'utilizzo, distribuzione, adattamento e trasformazione
+dei dati nel dataset.
+
+- 4 Licenza CC-By: Tutti i dati caricati nell'app e inclusi nel dataset saranno 
+rilasciati sotto la licenza Creative Commons Attribution 4.0 International (CC-By). 
+Ciò consente di condividere, copiare e ridistribuire i dati in qualsiasi formato 
+o supporto e di adattarli per qualsiasi scopo, anche a fini commerciali.
+
+- 5 Attribuzione: L'utente accetta di essere attribuito come il contributore 
+originale dei dati che ha fornito. L'attribuzione verrà fornita nella forma 
+specificata dalla licenza CC-By e includerà il nome dell'utente o il nome fornito
+come username nell'applicazione.
+
+- 6 Utilizzo Commerciale: Poiché è concessa la possibilità di utilizzo commerciale 
+dei dati, l'utente accetta che l'applicazione e il dataset possano essere utilizzati 
+per scopi commerciali, con l'obbligo di attribuire l'utente come contributore.
+
+- 7 Liberazione di Responsabilità: Gli sviluppatori dell'applicazione e i responsabili 
+del dataset non si assumono alcuna responsabilità per l'utilizzo dei dati da parte 
+di terzi o per eventuali violazioni di copyright da parte degli utenti. L'utente 
+riconosce e accetta di utilizzare l'applicazione e di caricare i dati nel dataset 
+a proprio rischio.
+
+- 8 Utilizzo Etico: L'utente si impegna a non caricare dati offensivi, diffamatori, 
+illegali o in violazione dei diritti di terzi. Gli sviluppatori si riservano il 
+diritto di rimuovere qualsiasi contenuto che ritengano inappropriato o non conforme 
+ai termini di utilizzo.
+
+- 9 Modifiche ai Termini: Gli sviluppatori si riservano il diritto di apportare 
+modifiche a questi termini e condizioni in qualsiasi momento. L'utente sarà informato
+ di tali modifiche e l'utilizzo continuato dell'applicazione costituirà l'accettazione
+ dei nuovi termini.
+
+- 10 Riservatezza dei Dati: Gli sviluppatori dell'applicazione si impegnano a 
+mantenere riservati i dati personali forniti dagli utenti e a utilizzarli solo per gli 
+scopi previsti dalla presente applicazione e dal dataset.
+
+- 11 Legge Applicabile: Questi termini e condizioni sono regolati e interpretati in 
+conformità con le leggi dello Stato in cui sono registrati gli sviluppatori dell'applicazione. 
+Eventuali dispute saranno sottoposte alla giurisdizione esclusiva di tale Stato.
+
+Utilizzando l'applicazione e contribuendo al dataset, l'utente si impegna a 
+rispettare e aderire a tutti i termini e le condizioni sopra elencati. In caso di disaccordo 
+con tali termini, si prega di astenersi dall'utilizzare l'applicazione e dal caricare i 
+dati nel dataset.
+
+===================================================================================
+EN
+===================================================================================
+
+Terms and Conditions for Using the App and Uploading Data to the Dataset:
+
+===================================================================================
+
+- 1 Acceptance of Terms: By using the application and uploading data to the dataset, you
+ unconditionally and fully agree to the following terms and conditions.
+
+- 2 Data Contribution: Users are invited to contribute to the dataset by providing sound
+ objects with a duration between 5 and 10 seconds, as specified in the project terms.
+
+- 3 Ownership of Data: Users declare that they are the rightful owners of all the data 
+uploaded and grant a non-exclusive, perpetual, irrevocable, and worldwide license for the 
+use, distribution, adaptation, and transformation of the data in the dataset.
+
+- 4 CC-By License: All data uploaded through the app and included in the dataset will be 
+released under the Creative Commons Attribution 4.0 International (CC-By) license. This 
+allows sharing, copying, and redistributing the data in any format or medium and adapting 
+it for any purpose, including commercial purposes.
+
+- 5 Attribution: Users agree to be attributed as the original contributors of the data 
+they provided. Attribution will be provided in the form specified by the CC-By license 
+and will include the user's name or the name provided as the username in the application.
+
+- 6 Commercial Use: As commercial use of the data is permitted, users acknowledge that the 
+application and dataset may be used for commercial purposes, with the obligation to attribute 
+the user as the contributor.
+
+- 7 Disclaimer of Liability: The developers of the application and the dataset assume no 
+responsibility for the use of the data by third parties or for any copyright violations by 
+users. Users acknowledge and agree to use the application and upload data to the dataset at 
+their own risk.
+
+- 8 Ethical Use: Users commit not to upload offensive, defamatory, illegal, or 
+copyright-infringing content. The developers reserve the right to remove any content they 
+deem inappropriate or non-compliant with the terms of use.
+
+- 9 Changes to Terms: The developers reserve the right to make changes to these terms and 
+conditions at any time. Users will be notified of such changes, and continued use of the 
+application will constitute acceptance of the new terms.
+
+- 10 Data Confidentiality: The developers of the application commit to keeping the personal 
+data provided by users confidential and using it only for the purposes intended by this 
+application and the dataset.
+
+- 11 Applicable Law: These terms and conditions are governed and interpreted in accordance 
+with the laws of the European Union, taking into account the EU privacy norms. Any disputes 
+will be subject to the exclusive jurisdiction of the courts of the EU member state where the 
+developers of the application are registered.
+
+By using the application and contributing to the dataset, users agree to comply with all the 
+above terms and conditions. If you disagree with these terms, please refrain from using the 
+application and uploading data to the dataset.

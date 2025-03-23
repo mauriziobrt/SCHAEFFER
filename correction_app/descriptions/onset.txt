@@ -1,0 +1,5 @@
+"Sharp onset", A sound caused by a mallet or plectrum the onset sound is closer to the character of the main body of the sound;
+"Marked onset", Normal (non-legato) onset of a wind or string instrument;
+"Flat onset", No particular marking of the onset as in legato playing;
+"Swelled onset", A short crescendo/decrescendo;
+"Fade in", Dal niente/gradual crescendo;

@@ -1,0 +1,8 @@
+"Sinusoidal sound", Only fundamental no overtones;
+"Harmonic sound", Harmonic signals have a pitch determined by their fundamental frequency;
+"Inharmonic sound", Tones that cannot be multiplied or divided by a whole number _ inharmonic overtones_ or partial tones.;
+"Cluster sound", Sound formed by many near pitched tones resulting in an unique mass;
+"Breathlike sound", Harmonic kinda noisy sound _ with a breathy airy quality;
+"Noisy sound", Sound where noise is prominent;
+"Composite or Stratified sound", Pair of sounds such as a grace note added to (or inserted into) a main note or a trill or mordent. Sustained sounds that show different degrees of internal differentiation. The simplest case is a sustained sound with a prominent harmonic;
+"Combination or harmonic sounds", Combination of sounds with an a prominent harmonic presence.;

@@ -1,0 +1,6 @@
+"Very simple element", Examples: repetitive figures with one or a couple of pitches and even rhythmical values such as very simple accompaniment figures - (texture): single chords _ monophony or basic homophony;
+"Relatively simple element", Examples (lines): articulated yet simple figures such as scales/passages or refined accompaniment figures - (texture): heterophony_ or homophony with slight polyphonic elements.;
+"Moderately complex element", Examples (lines): a classical_ simple theme/ (texture): a simple two- or three-part polyphony.;
+"Relatively complex element", Examples (lines): complex themes with great diversity of pitch and rhythm/ (texture): complex polyphony.;
+"Very complex element", Examples (lines): extremely asymmetric/irregular lines using a large number of values in an unpredictable manner/ (texture): accumulations in electroacoustic and avant-garde music.;
+"Simple emergence from complex details", Very complex and the very simple meet in a paradoxical_ ambivalent union. Ex.: Elements with myriad details_ but with a perceptually simple overall character.;

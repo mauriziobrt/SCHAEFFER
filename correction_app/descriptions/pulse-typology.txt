@@ -1,0 +1,5 @@
+"Impulse", Short thrust of energy; 
+"Regular pulse train", Regular beat or burst of sound; 
+"Irregular pulse train", Irregular beat or burst of sounds; 
+"No pulse", No identifiable sound pulse;
+"Irregular sporadic pulses", Irregular attacks of sounds;

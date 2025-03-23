@@ -1,0 +1,9 @@
+"Flat sustain", Continuous energy; 
+"Vacillating sustain", Unpredictably diversified energy articulation; 
+"Ostinato", A repeated sequence of sonic objects_ ostinato-like. A special case of composite sound-objects.; 
+"Decaying sustain", The ending of the sustained sound is rounded off with a diminuendo; 
+"Uplifting sustain", The ending of the sustained sound is rounded off with a crescendo; 
+"Iteration", Repetition with discontinuous energy; 
+"Accumulation", Unpredictably diversified iterations.;
+ "No Sustain", No audible sustain.;
+"Chaotic", Non-linear sustain behavior;

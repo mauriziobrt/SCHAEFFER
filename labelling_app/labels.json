@@ -1,0 +1,98 @@
+{
+    "Type":{
+        "0":"Soundscape",
+        "1":"Drone",
+        "2":"Chop",
+        "3":"Sub",
+        "4":"Glitch",
+        "5":"Impact",
+        "6":"Stab (attacco risonanza)",
+        "7":"Synthesis",
+        "8":"Vocal",
+        "9":"Scratch",
+        "10":"Crackle",
+        "11":"Noise",
+        "12":"Textural",
+        "13":"Instrumental",
+        "14":"Chirp",
+        "15":"Percussive",
+        "16":"Honk",
+        "17":"Choral"
+    },
+    "Mass type":{
+        "0":"Sinusoidal sound",
+        "1":"Harmonic sound",
+        "2":"Inharmonic sound",
+        "3":"Cluster sound",
+        "4":"Breathlike sound",
+        "5":"Noisy sound",
+        "6":"Composite or Stratified sound"
+    },
+    "Complexity":{
+        "0":"Very simple element",
+        "1":"Relatively simple element",
+        "2":"Moderately complex element",
+        "3":"Relatively complex element",
+        "4":"Very complex element",
+        "5":"Simple emergence from complex details"
+    },
+    "Onset":{
+        "0":"Sharp onset",
+        "1":"Marked onset",
+        "2":"Flat onset",
+        "3":"Swelled onset",
+        "4":"Fade in"
+    },
+    "Sustain":{
+        "0":"Flat sustain",
+        "1":"Vacillating sustain",
+        "2":"Ostinato ",
+        "3":"Decaying sustain",
+        "4":"Uplifting sustain",
+        "5":"Iteration",
+        "6":"Accumulation"
+    },
+    "Offset":{
+        "0":"Sharp ending",
+        "1":"Marked ending",
+        "2":"Flat ending",
+        "3":"Soft ending",
+        "4":"Laissez vibrer",
+        "5":"Interrupted resonance",
+        "6":"Fade out"
+    },
+    "Pulse typology":{
+        "0":"Impulse",
+        "1":"Regular pulse train",
+        "2":"Irregular pulse train",
+        "3":"No pulse"
+    },
+    "Processes":{
+        "0":"Chorus",
+        "1":"Tremolo",
+        "2":"Distortion",
+        "3":"Fuzzy",
+        "4":"Granular",
+        "5":"Loop",
+        "6":"Bit reduction",
+        "7":"Reverb",
+        "8":"Filtered",
+        "9":"Resonators",
+        "10":"Flanger",
+        "11":"Pitch-shift",
+        "12":"Stretched",
+        "13":"Delay",
+        "14":"Eco",
+        "15":"Vibrato",
+        "16":"Filter Modulation",
+        "17":"Glissando"
+    },
+    "Directionality":{
+        "0":"Forward push",
+        "1":"Evaded forward push",
+        "2":"Suspended forward push",
+        "3":"Backward push",
+        "4":"Neutral"
+    }
+}
+

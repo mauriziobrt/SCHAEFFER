@@ -1,0 +1,9 @@
+"Fulfilled Forward push", Tendency directed towards a future point in time and/or by an increasing tendency.;
+"Evaded forward push", In evaded forward push the goal is not reached;
+"Suspended forward push",The expected goal of a forward-oriented function is suspended.; 
+"Backward push", Tendency directed away from a past point in time and/or by decreasing tendency.; 
+"Neutral", Vague tendency or conflicting tendencies;
+"Glissando Up", Upward glissando.;
+"Glissando Down", Downward glissando;
+"Glissando Complex", Mixed direction glissando;
+"Evanescent appereance", Sound that appear and disappears out of nowhere.;
