@@ -22,7 +22,7 @@ Use our baseline model to generate sounds from text descriptions:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X688Jqzq_EyNugP8GO5hctqOs0Sr-ll5?usp=sharing)
 
-Generated audio samples with their corresponding textual captions and seeds can be found in:
+Generated audio samples with their corresponding textual captions can be found in:
 ```
 generation/audio_samples/
 ```
