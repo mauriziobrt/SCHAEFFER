@@ -46,13 +46,14 @@ Due to the dataset's multitask learning design and large number of categories, c
 If you use the SCHAEFFER dataset in your research, please cite:
 
 ```bibtex
-@dataset{berta2024schaeffer,
-  title={SCHAEFFER: Spectro-morphological Corpus of Human-annotated Audio with Electroacoustic Features For Experimental Research},
-  author={Berta, Maurizio and Ghisi, Daniele},
-  year={2024},
-  publisher={Hugging Face},
-  url={https://huggingface.co/datasets/dbschaeffer/SCHAEFFER}
+@inproceedings{berta2025SCHAEFFER,
+  title = {{{SCHAEFFER}}: A Dataset of Human-Annotated Sound Objects for Machine Learning Applications},
+  booktitle = {Proceedings of the 28 Th {{International Conference}} on {{Digital Audio Effects}}},
+  author = {Berta, Maurizio and Ghisi, Daniele},
+  year = 2025,
+  abstract = {Machine learning for sound generation is rapidly expanding within the computer music community. However, most datasets used to train models are built from field recordings, foley sounds, instrumental notes, or commercial music. This presents a significant limitation for composers working in acousmatic and electroacoustic music, who require datasets tailored to their creative processes. To address this gap, we introduce the SCHAEFFER Dataset (Spectromorphological Corpus of Human-annotated Audio with Electroacoustic Features For Experimental Research), a curated collection of 1000 sound objects designed and annotated by composers and students of electroacoustic composition. The dataset, distributed under Creative Commons licenses, features annotations combining technical and poetic descriptions, alongside classifications based on pre-defined spectromorphological categories.},
 }
+
 ```
 
 ## Contributing
